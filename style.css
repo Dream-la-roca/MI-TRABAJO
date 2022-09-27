@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    font-family: 'Carter One', cursive;
+    color: red;
+    font-size: 50px;
+    background-image: url("https://www.blogdelfotografo.com/wp-content/uploads/2021/12/Fondo_negro_azulado_mini.jpg");
+    background-size: cover;
+}
+.carousel-inner img{
+    margin: 0 auto;
+    width: 350px;
+}
+section{
+    margin-top: 150px;
+}
